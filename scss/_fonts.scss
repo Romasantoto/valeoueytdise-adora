@@ -1,0 +1,25 @@
+nav a{
+	text-decoration: none;
+	font-family: sans-serif;
+	font-size: 1em;
+
+}
+
+/* selectores de clase */
+
+.textcenter{
+	text-align: center;
+
+}
+
+.textright{
+	text-align: justify;
+}
+
+.portfolio {
+margin: 10px 50px 20px 0px;
+display: inline-block;
+}
+.portfolio a:hover {
+opacity: 0.6;
+}

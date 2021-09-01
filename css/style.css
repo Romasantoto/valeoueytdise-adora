@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&family=Shadows+Into+Light&display=swap');
+
+
+
+
+
+
+
+
+
+section	p em{
+	color: navajowhite;
+}
+
+section table{
+	color: sienna;
+}
+
+section fieldset legend {
+	color: red;
+}
+
+body{
+
+	background-image: url(../imagenes/confectionary.png);
+}
+nav	ol li a {
+	color: hotpink;
+}
+nav ol li{
+
+	list-style-type: decimal;
+	list-style-position: initial;
+	
+
+}
+
+
+#botonera{
+	color: black;
+}
+
+.bg-dark{
+	color: black;
+}
+
+.centrado{
+
+margin-left: auto; 
+
+margin-right: auto;
+
+}
+
+footer h4{
+	color: navy;
+}
+
+
+*{
+  margin: 0;
+  padding: 10px;
+}
+
+
+
+nav ol li a{
+
+	color: hotpink;
+	font-size: 22;
+	text-decoration: none;
+}
+
+p{
+	font-style: italic;
+	font-weight: 500;
+	font-size: 22;
+	line-height: 26px;
+	letter-spacing: 1px;
+	word-spacing: 4px;
+	font-family: 'Raleway', sans-serif;
+
+}
+
+h1, h2, h3, h4{
+	font-family: 'Shadows Into Light', cursive;
+}
+
+/* selectores de clase */
+
+.textcenter{
+	text-align: center;
+
+}
+
+.textright{
+	text-align: justify;
+}
+
+.portfolio {
+margin: 10px 50px 20px 0px;
+display: inline-block;
+}
+.portfolio a:hover {
+opacity: 0.6;
+}
